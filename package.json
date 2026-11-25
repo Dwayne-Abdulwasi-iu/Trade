@@ -1,0 +1,15 @@
+{
+  "name": "neatwork",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "mongodb": "^7.9.1",
+    "nodemailer": "^10.6.1"
+  }
+}
